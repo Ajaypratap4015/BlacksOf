@@ -1,19 +1,19 @@
-**Smart City Lights Ecosystem - Frontend Assignment**
-Overview
+# Smart City Lights Ecosystem - Frontend Assignment
+## Overview
 This project is a frontend implementation of a Smart City Lights Ecosystem, developed as part of a front-end developer assignment. The project showcases a responsive and accessible UI, built using ReactJS/NextJS, TypeScript, and CSS (TailwindCSS). The design is based on a provided Figma file, with a focus on best practices and modern web standards.
 
-Features
+## Features
 Responsive Design: The UI adapts seamlessly across various screen sizes and devices.
 TypeScript Integration: Type safety and enhanced developer experience.
 Accessibility: Implemented ARIA roles and accessible attributes for improved user experience.
 Component-Based Architecture: Reusable and maintainable React components.
 Modern Styling: Leveraging TailwindCSS for utility-first styling.
-Technologies Used
+## Technologies Used
 ReactJS/NextJS - For building and rendering the UI.
 TypeScript - Ensuring type safety and reducing runtime errors.
 TailwindCSS - Utility-first CSS framework for styling.
 ESLint & Prettier - For code quality and consistent formatting.
-Getting Started
+## Getting Started
 Prerequisites
 Ensure you have the following tools installed:
 
@@ -22,27 +22,28 @@ Yarn or npm
 Installation
 Clone the repository:
 
-bash
-Copy code
+```
 git clone https://github.com/Ajaypratap4015/BlacksOf.git
 cd BlacksOf
-Install dependencies:
+```
+### Install dependencies:
 
 
 
-bash
+```
 npm install
-Run the development server:
+```
+### Run the development server:
 
 
-bash
-
+```
 npm run dev
+```
 Open http://localhost:3000 to view the project in your browser.
 
 Project Structure
-bash
-Copy code
+
+```
 ├── assets           # Static assets (images, icons, etc.)
 ├── components       # Reusable React components
 ├── pages            # Next.js pages
@@ -50,22 +51,25 @@ Copy code
 ├── public           # Publicly accessible files
 ├── types            # TypeScript type definitions
 └── utils            # Utility functions and helpers
-Screenshots
-Hero Section
+```
+## Screenshots
 
-Features Section
+![Screenshot 2024-08-21 030854](https://github.com/user-attachments/assets/889a6130-e8d9-4ae2-bdfa-a473c77d6f25)
 
-Deployment
+
+![Screenshot 2024-08-21 030843](https://github.com/user-attachments/assets/ff85928c-5f70-42b3-8a43-d83c9cb6507c)
+
+
+
+### Deployment
 To deploy the project, you can use Vercel or any other preferred hosting service:
 
-bash
-Copy code
-vercel
-Contributing
+
+### Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+### Contact
 For any inquiries or feedback, please contact ajaypratap4015@gmail.com.
