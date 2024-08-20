@@ -1,6 +1,4 @@
-import React from 'react';
 
-// Importing images from the assets folder
 import streetLightController from '../assets/street_light_controler.png';
 import gateway from '../assets/gateway_png.png';
 import cloudManagement from '../assets/cloud_based management.png';
