@@ -1,8 +1,4 @@
-
-Memory updated
-Here’s a README template you can use for your assignment:
-
-Smart City Lights Ecosystem - Frontend Assignment
+**Smart City Lights Ecosystem - Frontend Assignment**
 Overview
 This project is a frontend implementation of a Smart City Lights Ecosystem, developed as part of a front-end developer assignment. The project showcases a responsive and accessible UI, built using ReactJS/NextJS, TypeScript, and CSS (TailwindCSS). The design is based on a provided Figma file, with a focus on best practices and modern web standards.
 
